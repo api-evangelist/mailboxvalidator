@@ -1,0 +1,32 @@
+aid: mailboxvalidator
+name: MailboxValidator
+description: "Validate email address to improve deliverability"
+url: https://www.mailboxvalidator.com/api-email-free
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Email"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Email
+  - Public APIs
+apis:
+  - name: MailboxValidator
+    description: "Validate email address to improve deliverability"
+    humanURL: https://www.mailboxvalidator.com/api-email-free
+    baseURL: https://www.mailboxvalidator.com/api-email-free
+    tags:
+      - Email
+    properties:
+      - type: Documentation
+        url: https://www.mailboxvalidator.com/api-email-free
+common:
+  - type: Website
+    url: https://www.mailboxvalidator.com/api-email-free
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
