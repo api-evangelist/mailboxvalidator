@@ -1,4 +1,16 @@
 aid: mailboxvalidator
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mailboxvalidator.png
 name: MailboxValidator
 description: "Validate email address to improve deliverability"
 url: https://www.mailboxvalidator.com/api-email-free
