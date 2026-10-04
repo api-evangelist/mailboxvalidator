@@ -39,7 +39,6 @@ apis:
   - name: MailboxValidator
     description: "Validate email address to improve deliverability"
     humanURL: https://www.mailboxvalidator.com/api-email-free
-    baseURL: https://www.mailboxvalidator.com/api-email-free
     tags:
       - Email
     properties:
